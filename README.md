@@ -5,3 +5,5 @@ Just download/clone and run the .exe
 
 (noway an .exe on github)
 ![surprised](pics/noway.gif)
+
+Note: the first search will take longer than following ones
